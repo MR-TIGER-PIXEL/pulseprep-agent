@@ -1,0 +1,5 @@
+name,category,address,latitude,longitude,notes
+Fallback Regional Medical Center,Emergency Department,1000 Health Way,41.5485,-90.5050,Fallback planning data; call 911 or local emergency services in real emergencies.
+Fallback Children and Family Hospital,Emergency Department,2000 Care Avenue,41.5900,-90.4550,Fallback planning data; verify services locally for planning.
+Fallback Community Emergency Center,Emergency Department,3000 Response Road,41.5250,-90.4700,Fallback planning data; not for ambulance routing triage or emergency dispatch.
+Fallback Urgent Care,Non-emergency urgent care,4000 Clinic Street,41.5750,-90.4300,Fallback planning data; urgent care is not a substitute for emergency services.

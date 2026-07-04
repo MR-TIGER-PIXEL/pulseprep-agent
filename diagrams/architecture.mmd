@@ -1,0 +1,15 @@
+flowchart TD
+    A[User Input] --> B[Emergency Safety Classifier]
+    B -->|Possible real emergency| C[Emergency-first response]
+    B -->|Educational or planning request| D[Intent Router]
+    D --> E[CPR/AED Learning Coach]
+    D --> F[Scenario Quiz Agent]
+    D --> G[AED Locator Agent]
+    D --> H[Emergency Facility Awareness Finder Agent]
+    D --> I[Outreach Material Generator]
+    E --> J[Safety Review Layer]
+    F --> J
+    G --> J
+    H --> J
+    I --> J
+    J --> K[Final User Output]
